@@ -1,0 +1,21 @@
+.menu li{
+    padding: 0 0 0 15px;
+}
+.head p{
+    text-align: center;
+    background: rgb(132, 10, 148);
+    color: white;
+    padding: 15px 0 10px 0;
+}
+
+
+
+.head2 h4{
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.cards h4{
+    padding: 15px 0 0 0;
+}
+
